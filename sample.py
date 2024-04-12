@@ -1,9 +1,4 @@
 
-## branch sample1
-
-print('branch sample1')
-print('Hello World!!')
-
 
 x = int(input("첫번째 정수를 입력하시오: "))
 ch = input("연산자를 입력하시오: ")
