@@ -2,7 +2,14 @@
 
 print('branch sample1')
 print('Hello World!!')
-print('베발 성공하길')
+print('제발 성공하길')
+
+# branch sample2
+
+print('branch sample2')
+print('sample2 수정 완료')
+print('이제 잘 좀 업로드 하자!!')
+
 
 x = int(input("첫번째 정수를 입력하시오: "))
 ch = input("연산자를 입력하시오: ")
